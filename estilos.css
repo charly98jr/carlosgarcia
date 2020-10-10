@@ -1,0 +1,25 @@
+ /* dividimos la pagina por secciones*/
+    #header{
+    width:auto;
+    height:auto;
+    margin-right:0;
+    margin-top:0;
+    margin-left:0;
+    background-color: midnightblue;
+    }
+    #cuerpo{
+    width:auto;
+    height:auto;
+    margin-right:0;
+    margin-top:0;
+    margin-left:0;
+    background-color: black;
+    }
+    #footer{
+    width:auto;
+    height:auto;
+    margin-right:auto;
+    margin-top:0;
+    margin-left:auto;
+    background-color: midnightblue;
+    }
